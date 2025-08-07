@@ -1,6 +1,6 @@
 # 01 First Game
 
-[Build]("https://github.com/man-than-shar-ma/godot-learn/releases/latest/download/01-first-game-win-x84-64.zip")
+[Build](https://github.com/man-than-shar-ma/godot-learn/releases/latest/download/01-first-game-win-x84-64.zip)
 
 ![First Game](readme-res/image.png)
 
